@@ -5,6 +5,9 @@
 - [Bevy Cheatsheet](./cheatsheet.md)
 
 - [Bevy Programming](./programming/_index.md)
+  - [Setup](./programming/_ide_setup.md)
+    - [VSCode](./programming/vscode.md)
+    - [IntelliJ](./programming/intellij.md)
   - [Basics](./programming/_basics.md)
     - [Intro to ECS](./programming/ecs-intro.md)
     - [Entities and Components](./programming/ec.md)
